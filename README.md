@@ -3,13 +3,13 @@ Projeto criado para resolver o desafio 1 do curso de desenvolvimento web, unisen
 Desafio 01:
 
 Sua empresa foi contratada por um condomínio para criar uma aplicação de controle de estacionamento. O sistema deve possuir tela de cadastro da reserva da vaga para salvar todas as informações, tais como:
-● Placa do veículo.
-● Nome do proprietário.
-● Número do apartamento.
-● Bloco do apartamento.
-● Modelo do veículo.
-● Cor do veículo.
-● Número da vaga de estacionamento.
+- Placa do veículo.
+- Nome do proprietário.
+- Número do apartamento.
+- Bloco do apartamento.
+- Modelo do veículo.
+- Cor do veículo.
+- Número da vaga de estacionamento.
 Além disso, deverá possuir também uma tela para listar as vagas cadastradas e outra para exibir as vagas disponíveis.
 
 Critérios de avaliação
